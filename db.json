@@ -1,0 +1,28 @@
+{
+  "todos": [
+    {
+      "name": "rosss",
+      "email": "k@gmail.com",
+      "password": "123",
+      "id": 4
+    },
+    {
+      "name": "rtyu",
+      "email": "qwertyui",
+      "password": "wer",
+      "id": 5
+    },
+    {
+      "name": "poiutrewazxcvbnmfdfghjkertyu",
+      "email": "qwertyui",
+      "password": "wer",
+      "id": 6
+    },
+    {
+      "name": "kate",
+      "email": "jadhav@k",
+      "password": "123",
+      "id": 7
+    }
+  ]
+}
